@@ -14,9 +14,9 @@ Nieh Amshu
 * [`WhangSaff`](https://wa.me/6289677763976?text=Banh+dah+Comli+belum?+🗿)
 
 #### Donate
-[`Saweria`](https://saweria.co/rey404)
-[`Trakteer`](https://trakteer.id/rey404)
-[`ko-pi`](https://ko-fi.com/riri19)
+* [`Saweria`](https://saweria.co/rey404)
+* [`Trakteer`](https://trakteer.id/rey404)
+* [`ko-pi`](https://ko-fi.com/riri19)
 
 
 
