@@ -10,7 +10,7 @@ return coli
 ```
 
 ## Nomer WangsApp 
-Kalo ada yang eror, tolong lapor ke saya di nomer WhangSaff ini, terimakasih
+Nieh Amshu
 * [`WhangSaff`](https://wa.me/6289677763976?text=Banh+dah+Comli+belum?+🗿)
 
 
