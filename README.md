@@ -9,9 +9,9 @@ I'm Pencoli ^_^
 return coli
 ```
 
-##### Nomer WangsApp 
+##### IngStagRam
 Nieh Anjimeh
-* [`WhangSaff`](https://wa.me/0?text=Banh+dah+Comli+belum?+🗿)
+* [`WhangSaff`](https://instagram.com/bah.raid)
 
 #### Donate
 * [`Saweria`](https://saweria.co/rey404)
