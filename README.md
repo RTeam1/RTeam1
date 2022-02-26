@@ -11,7 +11,7 @@ return coli
 
 ##### IngStagRam
 Nieh Anjimeh
-* [`WhangSaff`](https://instagram.com/bah.raid)
+* [`IGEH`](https://instagram.com/bah.raid)
 
 #### Donate
 * [`Saweria`](https://saweria.co/rey404)
