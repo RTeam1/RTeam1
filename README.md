@@ -1,13 +1,13 @@
 ### Hi there 👋
 ```js
-var coli = `
+const esuk = "Sekolah"
+const awan = "Mangan"
+const wengi = "Turu"
 
-I'm Not Programmer!!
-I'm Pencoli ^_^
-
-`
-return coli
+console.log("Yen Esuk", esuk, "Yen awan", awan, "Yen wengi", wengi)
+//TypeError: Assignment to constant variable.
 ```
+
 
 ##### IngStagRam
 Nieh Anjimeh
