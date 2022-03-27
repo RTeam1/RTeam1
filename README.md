@@ -3,6 +3,21 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Welcome+to+my+github" />
 </p>
 
+## Member
+```
+”
+Member = `
+Rey                                                        
+Arya 
+Andra 
+Rah de 
+Rehan 
+Risqy 
+Akbar`
+”
+return Member
+```
+
 
 ```js
 const esuk = "Sekolah"
