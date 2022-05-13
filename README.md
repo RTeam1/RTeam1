@@ -8,12 +8,10 @@
 ”
 Member = `
 Rey                                                        
-Arya 
 Andra 
 Rah de 
 Rehan 
-Risqy 
-Akbar`
+Risqy `
 ”
 return Member
 ```
