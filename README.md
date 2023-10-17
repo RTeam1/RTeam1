@@ -7,11 +7,7 @@
 ```
 ”
 Member = `
-Rey                                                        
-Andra 
-Rah de 
-Rehan 
-Risqy `
+Rey `
 ”
 return Member
 ```
