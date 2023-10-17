@@ -14,11 +14,11 @@ return Member
 
 
 ```js
-const esuk = "Sekolah"
-const awan = "Mangan"
-const wengi = "Turu"
+const pagi = "Sekolah"
+const siang = "Mangan"
+const malam = "Turu"
 
-console.log("Yen Esuk", esuk, "Yen awan", awan, "Yen wengi", wengi)
+console.log("Yen Esuk", pagi, "Yen awan", siang, "Yen wengi", malam)
 //TypeError: Assignment to constant variable.
 ```
 
